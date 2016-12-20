@@ -2,8 +2,6 @@ package com.wassili.proxy;
 
 import java.util.Random;
 
-import java.util.Random;
-
 public class Car implements Moveable {
 
 	@Override
